@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mykolamateichuk/Desktop/lab2_asd2.2 4/HashTable.h
+LinkedList.h
+/Users/mykolamateichuk/Desktop/lab2_asd2.2 4/LinkedList.h
+
+/Users/mykolamateichuk/Desktop/lab2_asd2.2 4/LinkedList.h
+string
+-
+cmath
+-
+
+/Users/mykolamateichuk/Desktop/lab2_asd2.2 4/main.cpp
+iostream
+-
+LinkedList.h
+/Users/mykolamateichuk/Desktop/lab2_asd2.2 4/LinkedList.h
+HashTable.h
+/Users/mykolamateichuk/Desktop/lab2_asd2.2 4/HashTable.h
+unordered_map
+-
+
